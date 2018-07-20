@@ -15,7 +15,7 @@ https://www.jianshu.com/p/f0757c949d4e
 1. 设计模式《策略模式》  
 https://www.jianshu.com/p/3b396c1efc44  
 
-1. 设计模式《状态模式》
+1. 设计模式《状态模式》  
 https://www.jianshu.com/p/262ada910a4e  
 
 1. 设计模式《原型模式》  
