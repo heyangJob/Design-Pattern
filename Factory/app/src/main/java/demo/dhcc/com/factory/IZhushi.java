@@ -6,7 +6,7 @@ package demo.dhcc.com.factory;
  * @created 2018/7/6  下午2:36.
  *
  */
-public interface IZhushi {
+public interface IZhuShi {
     // 主食吃什么
     void eat();
 }

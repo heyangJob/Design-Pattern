@@ -1,7 +1,7 @@
 package demo.dhcc.com.factory.simple1;
 
 import demo.dhcc.com.factory.Flour;
-import demo.dhcc.com.factory.IZhushi;
+import demo.dhcc.com.factory.IZhuShi;
 import demo.dhcc.com.factory.Rice;
 
 /**
@@ -16,7 +16,7 @@ public class FactoryZhuShi {
     //北方人
     public static final int NORTH = 2;
 
-    public  static IZhushi createZhushi(int type) {
+    public  static IZhuShi createZhuShi(int type) {
         switch (type) {
             case SOUTH:
                 return new Rice();

@@ -9,7 +9,7 @@ import demo.dhcc.com.factory.Rice;
  * @author 512573717@qq.com
  * @created 2018/7/6  下午3:37.
  */
-public class MethodFactoryZhushi {
+public class MethodFactoryZhuShi {
 
     public static Rice getRice() {
         return new Rice();

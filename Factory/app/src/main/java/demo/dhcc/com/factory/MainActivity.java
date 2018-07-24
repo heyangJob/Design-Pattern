@@ -3,6 +3,7 @@ package demo.dhcc.com.factory;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import demo.dhcc.com.factory.simple1.FactoryZhuShi;
 import demo.dhcc.com.factory.simple5.Huawei;
 import demo.dhcc.com.factory.simple5.ProductFactory;
 import demo.dhcc.com.factory.simple5.Xiaomi;
@@ -14,31 +15,31 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        IZhushi south = FactoryZhuShi.createZhushi(FactoryZhuShi.SOUTH);
+        IZhuShi south = FactoryZhuShi.createZhuShi(FactoryZhuShi.SOUTH);
+        south.eat();
+
+        IZhuShi north = FactoryZhuShi.createZhuShi(FactoryZhuShi.NORTH);
+        north.eat();
+
+
+//        IZhuShi south = ReflectFactoryZhuShi.createZhuShi(Rice.class);
 //        south.eat();
 //
-//        IZhushi north = FactoryZhuShi.createZhushi(FactoryZhuShi.NORTH);
+//        IZhuShi north = ReflectFactoryZhuShi.createZhuShi(Flour.class);
 //        north.eat();
 
-
-//        IZhushi south = ReflectFactoryZhushi.createZhushi(Rice.class);
+//        IZhuShi south = MethodFactoryZhuShi.getRice();
 //        south.eat();
 //
-//        IZhushi north = ReflectFactoryZhushi.createZhushi(Flour.class);
-//        north.eat();
-
-//        IZhushi south = MethodFactoryZhushi.getRice();
-//        south.eat();
-//
-//        IZhushi north = MethodFactoryZhushi.getFlour();
+//        IZhuShi north = MethodFactoryZhuShi.getFlour();
 //        north.eat();
 
 //        IFactory northFactory = new FlourFactory();
-//        IZhushi north = northFactory.create();
+//        IZhuShi north = northFactory.create();
 //        north.eat();
 //
 //        IFactory southFactory = new RiceFactory();
-//        IZhushi south = southFactory.create();
+//        IZhuShi south = southFactory.create();
 //        south.eat();
 
 

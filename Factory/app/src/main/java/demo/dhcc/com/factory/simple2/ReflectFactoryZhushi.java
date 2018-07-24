@@ -1,6 +1,6 @@
 package demo.dhcc.com.factory.simple2;
 
-import demo.dhcc.com.factory.IZhushi;
+import demo.dhcc.com.factory.IZhuShi;
 
 /**
  * 通过反射获取主食
@@ -8,9 +8,9 @@ import demo.dhcc.com.factory.IZhushi;
  * @author 512573717@qq.com
  * @created 2018/7/6  下午3:11.
  */
-public class ReflectFactoryZhushi {
+public class ReflectFactoryZhuShi {
 
-    public static <T extends IZhushi> T createZhushi(Class<T> cls) {
+    public static <T extends IZhuShi> T createZhuShi(Class<T> cls) {
         T object = null;
         try {
             object = (T) (Class.forName(cls.getName())).newInstance();
