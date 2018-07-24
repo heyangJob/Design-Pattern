@@ -32,3 +32,6 @@ https://www.jianshu.com/p/61c1f5ad329c
 
 1. 设计模式《责任链模式》  
 https://www.jianshu.com/p/bfcc59af14a7
+
+1. 设计模式《迭代器模式》  
+https://www.jianshu.com/p/c3f2c006c2fa
