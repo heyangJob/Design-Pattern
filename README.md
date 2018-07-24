@@ -35,3 +35,7 @@ https://www.jianshu.com/p/bfcc59af14a7
 
 1. 设计模式《迭代器模式》  
 https://www.jianshu.com/p/c3f2c006c2fa
+
+1. 设计模式《适配器模式》  
+https://www.jianshu.com/p/d082eb9eadb8
+
