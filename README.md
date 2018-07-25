@@ -39,3 +39,5 @@ https://www.jianshu.com/p/c3f2c006c2fa
 1. 设计模式《适配器模式》  
 https://www.jianshu.com/p/d082eb9eadb8
 
+1. 设计模式《外观模式》  
+https://www.jianshu.com/p/6acc81c64f28
