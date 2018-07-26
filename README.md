@@ -41,3 +41,6 @@ https://www.jianshu.com/p/d082eb9eadb8
 
 1. 设计模式《外观模式》  
 https://www.jianshu.com/p/6acc81c64f28
+
+1. 设计模式《装饰模式》  
+https://www.jianshu.com/p/ed58f2332a11
