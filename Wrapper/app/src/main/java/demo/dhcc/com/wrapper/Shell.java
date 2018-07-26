@@ -6,7 +6,7 @@ package demo.dhcc.com.wrapper;
  * @author 512573717@qq.com
  * @created 2018/7/26  下午2:01.
  */
-public abstract class Shell extends HuaWeiPhone {
+public abstract class Shell implements IPhone {
 
     private IPhone mHuaWeiPhone;
 
