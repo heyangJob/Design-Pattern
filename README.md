@@ -44,3 +44,9 @@ https://www.jianshu.com/p/6acc81c64f28
 
 1. 设计模式《装饰模式》  
 https://www.jianshu.com/p/ed58f2332a11
+
+1. 设计模式《桥接模式》  
+https://www.jianshu.com/p/8669751d2292
+
+1. 设计模式《中介者模式》  
+https://www.jianshu.com/p/d8ec93bd8baf
