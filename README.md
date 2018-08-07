@@ -50,3 +50,6 @@ https://www.jianshu.com/p/8669751d2292
 
 1. 设计模式《中介者模式》  
 https://www.jianshu.com/p/d8ec93bd8baf
+
+1. 设计模式《组合模式》  
+https://www.jianshu.com/p/8988d797755c
