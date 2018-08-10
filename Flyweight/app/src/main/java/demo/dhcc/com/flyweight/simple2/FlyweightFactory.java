@@ -48,6 +48,4 @@ public class FlyweightFactory {
         //返回对象
         return flyweight;
     }
-
-
 }
