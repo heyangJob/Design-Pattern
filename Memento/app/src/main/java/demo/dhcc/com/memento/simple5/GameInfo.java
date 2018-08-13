@@ -21,15 +21,9 @@ public class GameInfo {
         return time;
     }
 
-    public void setTime(int time) {
-        this.time = time;
-    }
 
     public int getLevel() {
         return level;
     }
 
-    public void setLevel(int level) {
-        this.level = level;
-    }
 }
