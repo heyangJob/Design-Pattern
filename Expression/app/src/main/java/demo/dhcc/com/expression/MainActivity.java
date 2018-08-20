@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Calculator calculator = new Calculator("1 + 2 + 3 – 4 + 1");
-        System.out.println(calculator.calculate());
+        System.out.println(calculator.calculate(new demo.dhcc.com.expression.simple1.Context()));
 
 
         Context c = null;
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         bEle.addEle(cEle);
         //调用
         String ss[] = root.interpret(c);
-        System.out.println("c的值是="+ss[0]);
+        System.out.println("c的值是=" + ss[0]);
 
 
     }

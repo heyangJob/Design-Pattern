@@ -12,7 +12,7 @@ public class AddExpression extends OperationExpression {
     }
 
     @Override
-    public int interpret() {
-        return exp1.interpret() + exp2.interpret();
+    public int interpret(Context c) {
+        return exp1.interpret( c) + exp2.interpret( c);
     }
 }

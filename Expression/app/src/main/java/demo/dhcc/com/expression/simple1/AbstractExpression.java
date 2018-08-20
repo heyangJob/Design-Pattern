@@ -7,5 +7,5 @@ package demo.dhcc.com.expression.simple1;
  * @created 2018/8/14  下午5:13.
  */
 public abstract class AbstractExpression {
-    public abstract int interpret();
+    public abstract int interpret(Context c);
 }

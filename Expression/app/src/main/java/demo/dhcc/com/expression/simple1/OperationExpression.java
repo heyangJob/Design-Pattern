@@ -16,7 +16,7 @@ public class OperationExpression extends AbstractExpression {
     }
 
     @Override
-    public int interpret() {
+    public int interpret(Context c) {
         return 0;
     }
 }

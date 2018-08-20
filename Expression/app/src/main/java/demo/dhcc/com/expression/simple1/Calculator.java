@@ -53,8 +53,8 @@ public class Calculator {
      * 计算
      * @return
      */
-    public int calculate() {
-        return expressions.pop().interpret();
+    public int calculate(Context c) {
+        return expressions.pop().interpret(c);
     }
 
 }

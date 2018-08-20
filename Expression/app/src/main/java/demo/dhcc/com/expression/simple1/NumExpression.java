@@ -14,7 +14,7 @@ public class NumExpression extends AbstractExpression {
     }
 
     @Override
-    public int interpret() {
+    public int interpret(Context c) {
         return num;
     }
 }
