@@ -60,6 +60,9 @@ https://www.jianshu.com/p/58b205672bab
 1. 设计模式《备忘录模式》  
 https://www.jianshu.com/p/14d27c8fea8d
 
+1. 设计模式《命令模式》  
+https://www.jianshu.com/p/eb36739c23fb
+
 1. 设计模式《解释器模式》  
 https://www.jianshu.com/p/6b91dcf8e18e
 
