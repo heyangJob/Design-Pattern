@@ -53,3 +53,15 @@ https://www.jianshu.com/p/d8ec93bd8baf
 
 1. 设计模式《组合模式》  
 https://www.jianshu.com/p/8988d797755c
+
+1. 设计模式《享元模式》  
+https://www.jianshu.com/p/58b205672bab
+
+1. 设计模式《备忘录模式》  
+https://www.jianshu.com/p/14d27c8fea8d
+
+1. 设计模式《解释器模式》  
+https://www.jianshu.com/p/6b91dcf8e18e
+
+1. 设计模式《访问者模式》  
+https://www.jianshu.com/p/d65996e81f8a
